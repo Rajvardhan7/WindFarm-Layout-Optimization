@@ -5,10 +5,10 @@ In order to maximize the AEP(Annual Energy Production) from the wind farms, this
 
 ## Quick Demonstration:
 
-  __Sidebar:__ The user has to upload the power curve data and wind data in the sidebar.
-  __Visualizer:__</h5> The Visualizer section provides plots of power curve data and wind rose diagram
-  __Optimizer:__</h5> The optimizer section allows a user to select multiple optimization algorithms and compare the annual energy production as well as the plot of optimal coordinates.
-  __Link to Video:__
+  *__Sidebar:__ The user has to upload the power curve data and wind data in the sidebar.
+  *__Visualizer:__</h5> The Visualizer section provides plots of power curve data and wind rose diagram
+  *__Optimizer:__</h5> The optimizer section allows a user to select multiple optimization algorithms and compare the annual energy production as well as the plot of optimal coordinates.
+  *__Link to Video:__
 
 
 ## Instructions to run locally:
