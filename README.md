@@ -5,11 +5,10 @@ In order to maximize the AEP(Annual Energy Production) from the wind farms, this
 
 ## Quick Demonstration:
 
-<h5>Sidebar:</h5> The user has to upload the power curve data and wind data in the sidebar.
-<h5>Visualizer:</h5> The Visualizer section provides plots of power curve data and wind rose diagram
-<h5>Optimizer:</h5> The optimizer section allows a user to select multiple optimization algorithms and compare the annual energy production as well as the plot of optimal coordinates.
-
-## Link to Video
+  -__Sidebar:__ The user has to upload the power curve data and wind data in the sidebar.
+  -__Visualizer:__</h5> The Visualizer section provides plots of power curve data and wind rose diagram
+  -__Optimizer:__</h5> The optimizer section allows a user to select multiple optimization algorithms and compare the annual energy production as well as the plot of optimal coordinates.
+  -__Link to Video:__
 
 
 ## Instructions to run locally:
@@ -20,7 +19,7 @@ In order to maximize the AEP(Annual Energy Production) from the wind farms, this
   4. Use command ```https://github.com/Rajvardhan7/WindFarm-Layout-Optimization.git```   to clone the repository.
   5. Install all required modules in your environment using ```pip install -r requirements.txt```
   6. Check if streamlit is properly installed or not using command ```streamlit hello.```
-  7. enter into App folder using ```cd App.```
+  7. enter into App folder using ```cd App```
   8. Now you are ready to run the app. Use the command ```streamlit run myapp.py```
 
 
@@ -31,24 +30,30 @@ Few screenshots of the application showing the features and output of the app ar
 <p align="center">
 <img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/9ba29a94d2c4843548bf4616d60e9e1f6ed34dd8/home.jpeg" height="400px"/>
 </p>
+
 <h4>Data Visualizer :</h4>
 <p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimizationblob/9ba29a94d2c4843548bf4616d60e9e1f6ed34dd8/vis1.jpeg" height="400px"/>
+<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/9ba29a94d2c4843548bf4616d60e9e1f6ed34dd8/vis1.jpeg" height="400px"/>
 </p>
+
 <h4>Wind Rose Diagram :</h4>
 <p align="center">
 <img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/9ba29a94d2c4843548bf4616d60e9e1f6ed34dd8/vis2.jpeg" height="400px"/>
 </p>
+
 <h4>Output :</h4>
 <p align="center">
 <img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt1.jpeg" height="400px"/>
 </p>
+
 <p align="center">
 <img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt2.jpeg" height="400px"/>
 </p>
+
 <p align="center">
 <img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt3.jpeg" height="400px"/>
 </p>
+
 <p align="center">
 <img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt4.jpeg" height="400px"/>
 </p>
