@@ -20,4 +20,4 @@ def home():
     st.write('**Visualizer:** for data visualization')
     st.write('**Optimizer:** Using certain algorithms and utility functions gives the optimal placement coordinates of the turbines. Also gives optimal AEP')
     st.write('\n')
-    st.write('##           - Created by Rajvardhan Rawat and Team')
+    st.write('##           - Created by Team Energy Optimizers)
